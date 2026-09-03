@@ -2,7 +2,7 @@
 <img src="./github_banner.png" alt="Hello world">
 
 <br/>
-<h1 align="center">Hi 👋, I'm Md.Sabbir</h1>
+<h1 align="center">Hi 👋,  I'm Md. Sabbir</h1>
 <h3 align="center">Aspiring Full-Stack Developer | JavaScript • TypeScript • React</h3>
 
 
