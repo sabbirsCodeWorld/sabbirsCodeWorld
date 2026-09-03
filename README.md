@@ -75,13 +75,13 @@ Tools
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
 </p>
 
-🚀 Current Goal
+<b>🚀 Current Goal</b>
 
 Become a skilled Full-Stack Developer and build useful, production-ready applications.
 
 I believe in learning by building, solving problems, and improving every day.
 
-📊 What I'm Working On
+<b>📊 What I'm Working On</b>
 
 Frontend projects
 
@@ -100,7 +100,7 @@ Building a strong developer portfolio
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirscodeworld&" alt="sabbirscodeworld" /></p>
 
 
-⚡ Fun Fact
+<b>⚡ Fun Fact</b>
 
 Code → Build → Break → Debug → Learn → Repeat 🔁
 
