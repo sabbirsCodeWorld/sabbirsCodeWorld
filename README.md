@@ -75,7 +75,7 @@ Tools
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
 </p>
 
-🚀 Current Goal
+<b>🚀 Current Goal</b>
 
 Become a skilled Full-Stack Developer and build useful, production-ready applications.
 
@@ -95,7 +95,7 @@ Git & GitHub
 
 Building a strong developer portfolio
 
-📈 GitHub Stats
+<b>📈 GitHub Stats</b>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
