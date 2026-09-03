@@ -10,7 +10,7 @@ I'm a passionate developer who enjoys building web applications and continuously
 
 Currently focused on Frontend Development with React, TypeScript, Tailwind CSS, and Next.js, while working toward becoming a Full-Stack Developer.
 
-💻 Work
+<b>💻 Work</b>
 
 🌱 Currently learning React & TypeScript
 
@@ -28,7 +28,7 @@ Currently focused on Frontend Development with React, TypeScript, Tailwind CSS, 
 
 📚 Always learning something new
 
-🛠️ Skills
+<b>🛠️ Skills</b>
 
 Programming Languages
 
@@ -51,13 +51,7 @@ Frontend Development
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45" height="45" alt="Next.js"/>
 </p>
 
-Backend Development
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express.js"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="45" height="45" alt="Django"/>
-</p>
 
 Database
 
